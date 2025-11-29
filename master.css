@@ -1,0 +1,59 @@
+body {
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+body, td {
+	font-family: Garamond, Times New Roman;
+	color: #000000;
+	line-height: 150%;
+}
+
+.title {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.error {
+	color: #ff0000;
+	font-weight: bold;
+}
+
+.menu {
+	line-height: 200%;
+}
+
+.rightalign {
+	text-align: right;
+}
+
+.small {
+	font-size: 80%;
+	line-height: 140%;
+}
+
+a, a:visited {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff0000;
+	text-decoration: underline;
+}
+
+td.lineTitle {
+	height: 20px;
+	background-color: #6699cc;
+}
+
+td.lineA {
+	background-color: #ffffff;
+}
+
+td.lineB {
+	background-color: #eeeeee;
+}
+
